@@ -12,7 +12,7 @@ def main():
     if isEven(fib):
       total = total + fib
   
-  print(total) # final answer
+  print(total) 
 
 if __name__ == '__main__':
   main()
